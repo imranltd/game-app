@@ -15,5 +15,21 @@
   "bugs": {
     "url": "https://github.com/imranltd/game-app/issues"
   },
-  "homepage": "https://github.com/imranltd/game-app#readme"
+  "homepage": "https://github.com/imranltd/game-app#readme",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "bootstrap": "^3.3.6",
+    "jquery": "^1.11.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-jshint": "^2.0.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-util": "^3.0.7",
+    "gulp-webserver": "^0.9.1",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0"
+  }
 }
