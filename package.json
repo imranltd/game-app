@@ -1,0 +1,19 @@
+{
+  "name": "game-app",
+  "version": "1.0.0",
+  "description": "simple game app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imranltd/game-app.git"
+  },
+  "author": "Imran Sarwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imranltd/game-app/issues"
+  },
+  "homepage": "https://github.com/imranltd/game-app#readme"
+}
